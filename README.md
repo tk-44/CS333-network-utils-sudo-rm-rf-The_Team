@@ -45,3 +45,4 @@ This repository contains a collection of network utilities designed to dissessem
 - https://www.geeksforgeeks.org/computer-networks/tcp-ip-packet-format/
 - https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/
 - https://www.youtube.com/watch?v=oKUkbMz5q7Y&list=PL6gx4Cwl9DGDdduy0IPDDHYnUx66Vc4ed&index=4
+- https://www.scribd.com/document/725221958/PySniff-Report
